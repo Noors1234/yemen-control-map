@@ -1,0 +1,53 @@
+{
+  "title": "Yemen Control Map",
+  "summary": {
+    "government": "14 governorates",
+    "houthi": "8 governorates",
+    "terrorist": "3 districts",
+    "neutral": "2 contested zones"
+  },
+  "areas": [
+    {
+      "name": "Sanaa",
+      "control": "houthi",
+      "population": "3.2M",
+      "lastUpdated": "2026-10-05",
+      "summary": "The capital remains under Houthi-aligned control with active security and administrative oversight."
+    },
+    {
+      "name": "Aden",
+      "control": "government",
+      "population": "1.1M",
+      "lastUpdated": "2026-10-05",
+      "summary": "Government-aligned forces retain the city and surrounding districts with a sustained security presence."
+    },
+    {
+      "name": "Taiz",
+      "control": "government",
+      "population": "1.6M",
+      "lastUpdated": "2026-10-05",
+      "summary": "Urban centers remain under government control while some peripheral areas remain contested."
+    },
+    {
+      "name": "Marib",
+      "control": "government",
+      "population": "0.9M",
+      "lastUpdated": "2026-10-05",
+      "summary": "Strategic governorate with continued government military operations and humanitarian pressure."
+    },
+    {
+      "name": "Al-Mahrah",
+      "control": "neutral",
+      "population": "0.4M",
+      "lastUpdated": "2026-10-05",
+      "summary": "A comparatively stable eastern region with limited conflict activity but intermittent border pressure."
+    },
+    {
+      "name": "Shabwah",
+      "control": "terrorist",
+      "population": "0.7M",
+      "lastUpdated": "2026-10-05",
+      "summary": "Insurgent and extremist groups remain active in portions of the governorate, complicating security."
+    }
+  ]
+}
